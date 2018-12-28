@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://47.93.60.149/AppDownload/huaikeyi_1.0.ipa</string>
+					<string>https://github.com/liuke/haikeyiDown/blob/master/haikeyi.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://47.93.60.149/AppDownload/logo.png</string>
+					<string>https://github.com/liuke/haikeyiDown/blob/master/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
