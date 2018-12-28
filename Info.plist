@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://47.93.60.149:8090/AppDownload/huaikeyi_1.0.ipa</string>
+					<string>https://47.93.60.149/AppDownload/huaikeyi_1.0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://47.93.60.149:8090/AppDownload/logo.png</string>
+					<string>https://47.93.60.149/AppDownload/logo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,9 +31,9 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>App Subtitle</string>
+				<string>还可易</string>
 				<key>title</key>
-				<string>App Title</string>
+				<string>还可易</string>
 			</dict>
 		</dict>
 	</array>
